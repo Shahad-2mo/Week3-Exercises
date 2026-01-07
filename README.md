@@ -44,7 +44,7 @@ Machine learning solution to predict and prevent shipping delays for a Saudi e-c
 - Install dependencies:
 
     ```
-    uv add pathlib pandas matplotlib seaborn scikit-learn autogluon numpy 
+    uv add pathlib pandas matplotlib seaborn scikit-learn autogluon numpy ipywidgets
     ```
 
 ## How to Run
